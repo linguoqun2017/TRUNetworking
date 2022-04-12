@@ -1,0 +1,22 @@
+{
+  "name": "TRUNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of TRUNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guoqun/TRUNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoqun": "guoqun2014dev@163.com"
+  },
+  "source": {
+    "git": "https://github.com/guoqun/TRUNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TRUNetworking/Classes/**/*"
+}
